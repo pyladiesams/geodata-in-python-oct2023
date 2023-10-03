@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# An introduction to geodata in Python
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+In this workshop, you will learn the basics of geospatial data theory, covering raster, vector, and related concepts. You will also be introduced to Python libraries for geospatial data and gain hands-on experience working with satellite imagery through a Jupyter notebook exercise.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/9RqFBbQGq_Y?feature=shared)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @AmberMulder
